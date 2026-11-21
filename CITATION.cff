@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this work, please cite it as below."
+title: "Safe Streets Addis: a privacy-first road safety system for Addis Ababa"
+version: "0.3"
+date-released: "2026-11-20"
+license: CC-BY-4.0
+repository-code: "https://github.com/DrTemesgen/safe-streets-addis"
+url: "https://drtemesgen.com/proposals/safe-streets-addis"
+type: dataset
+abstract: "An open, citizen proposal (draft for discussion) for privacy-first, AI-assisted speed and red-light enforcement for every vehicle in Addis Ababa (taxis and fleets are one extra layer), built on existing city cameras, new RFID/QR number plates and digital fine payment, with human review of every case, centrally set location-specific speed limits, a signed audit trail and a lean warning-only pilot. Road safety as preventive medicine."
+keywords:
+  - road safety
+  - Addis Ababa
+  - Ethiopia
+  - speed enforcement
+  - AI traffic enforcement
+  - privacy by design
+  - Safe System
+  - preventive medicine
+authors:
+  - family-names: Legesse
+    given-names: Temesgen Endalew
+    affiliation: "Africa Digital Health Academy (ADHA), Tibon Hub"
+    email: info@drtemesgen.com
